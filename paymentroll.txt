@@ -1,0 +1,2 @@
+Total of Gross Salary: 900.0
+Total of Net Salary: 828.0
